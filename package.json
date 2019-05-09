@@ -1,0 +1,23 @@
+{
+  "name": "learnbabeldeeply",
+  "version": "1.0.0",
+  "description": "learn babel deeply",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beblueblue/learnBabelDeeply.git"
+  },
+  "author": "hhz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beblueblue/learnBabelDeeply/issues"
+  },
+  "homepage": "https://github.com/beblueblue/learnBabelDeeply#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4"
+  }
+}
